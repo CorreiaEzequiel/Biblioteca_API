@@ -130,3 +130,5 @@ C:\Arquivos .Net\Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\refint\Biblioteca
 C:\Arquivos .Net\Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
 C:\Arquivos .Net\Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
 C:\Arquivos .Net\Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
+C:\Arquivos .Net\Testes\Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.staticwebassets.runtime.json
+C:\Arquivos .Net\Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json

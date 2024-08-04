@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "Fkx9Dpz/ZTYYQK32Hr0XtALnqKsecbODC6XKTgO4VwQ=",
+  "Hash": "yU2BbccQ98NtJ62+xHzeC9uIvfB0GoMSGaIg7sqrSNU=",
   "Source": "Biblioteca",
   "BasePath": "_content/Biblioteca",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Biblioteca\\wwwroot",
+      "Source": "Biblioteca",
+      "ContentRoot": "C:\\Arquivos .Net\\Testes\\Biblioteca\\Biblioteca\\wwwroot\\",
+      "BasePath": "_content/Biblioteca",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Arquivos .Net\\Testes\\Biblioteca\\Biblioteca\\wwwroot\\index.html",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Arquivos .Net\\Testes\\Biblioteca\\Biblioteca\\wwwroot\\",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
 }
